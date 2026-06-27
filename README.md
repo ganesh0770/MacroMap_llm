@@ -1,4 +1,4 @@
-## Intelligent Form Auto-Filler
+## Macromap -- food analysis
 
 An intelligent AI-powered web application that analyzes food images to provide instant, accurate nutritional values, macronutrient breakdowns, and health insights.
 ## Core Architecture
